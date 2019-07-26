@@ -1,0 +1,1 @@
+if let i = readLine() {let _ = i.utf8.map{print($0)}}
