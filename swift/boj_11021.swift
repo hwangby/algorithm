@@ -13,5 +13,5 @@ for i in 0..<T {
     let A = Int(AB[0])!
     let B = Int(AB[1])!
     
-    print("Case #\(i): \(A+B)")
+    print("Case #\(i+1): \(A+B)")
 }
